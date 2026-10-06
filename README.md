@@ -67,7 +67,7 @@ The table below lists leading enterprise software license management and SaaS sp
 
 Below are top open-source software license management, IT asset management (ITAM), and Software Composition Analysis (SCA) compliance engines. 🛠️
 
-All repositories include live **GitHub Stars_Badges** and are sorted by **GitHub Stars_Count (Descending)**. 🌟
+All repositories include live **GitHub_Stars_Badges** and are sorted by **GitHub_Stars_Count (Descending)**. 🌟
 
 ### 💻 IT Asset & License Management (ITAM/SAM)
 
