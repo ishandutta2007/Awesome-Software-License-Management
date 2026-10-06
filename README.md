@@ -67,54 +67,54 @@ The table below lists leading enterprise software license management and SaaS sp
 
 Below are top open-source software license management, IT asset management (ITAM), and Software Composition Analysis (SCA) compliance engines. 🛠️
 
-All repositories include live **GitHub Star Badges** and are sorted by **GitHub Star Count (Descending)**. 🌟
+All repositories include live **GitHub Stars_Badges** and are sorted by **GitHub Stars_Count (Descending)**. 🌟
 
 ### 💻 IT Asset & License Management (ITAM/SAM)
 
-- **[Snipe-IT](https://github.com/snipe-it-org/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe-it-org/snipe-it?style=social&color=white)](https://github.com/snipe-it-org/snipe-it/stargazers) 🏷️  
+- **[Snipe-IT](https://github.com/snipe-it-org/snipe-it)** [![GitHub_Stars](https://img.shields.io/github/stars/snipe-it-org/snipe-it?style=social&color=white)](https://github.com/snipe-it-org/snipe-it/stargazers) 🏷️  
   **The most widely adopted open-source IT asset management system** (AGPL-3.0). Built on Laravel 11 with a full REST API, Snipe-IT provides seat license assignments, check-in/check-out workflows, expiration tracking, and asset depreciation management. Best for SMBs and enterprise IT asset control.
 
-- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers) 📦  
+- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers) 📦  
   **The leading open-source ITIL & IT asset management platform** (GPL-3.0). Tracks software seat licenses, parent/child license relationships, renewal contracts, and over-quota alerts linked directly to hardware inventory. The primary open-source alternative to ServiceNow ITAM.
 
-- **[Ralph](https://github.com/allegro/ralph)** [![GitHub stars](https://img.shields.io/github/stars/allegro/ralph?style=social&color=white)](https://github.com/allegro/ralph/stargazers) 🖥️  
+- **[Ralph](https://github.com/allegro/ralph)** [![GitHub_Stars](https://img.shields.io/github/stars/allegro/ralph?style=social&color=white)](https://github.com/allegro/ralph/stargazers) 🖥️  
   **Open-source DCIM and asset management system** (Apache-2.0) built for data center infrastructure, physical hardware tracking, server rack visualization, and enterprise software license allocation.
 
-- **[OCS Inventory Server](https://github.com/OCSInventory-NG/OCSInventory-Server)** [![GitHub stars](https://img.shields.io/github/stars/OCSInventory-NG/OCSInventory-Server?style=social&color=white)](https://github.com/OCSInventory-NG/OCSInventory-Server/stargazers) 🛰️  
+- **[OCS Inventory Server](https://github.com/OCSInventory-NG/OCSInventory-Server)** [![GitHub_Stars](https://img.shields.io/github/stars/OCSInventory-NG/OCSInventory-Server?style=social&color=white)](https://github.com/OCSInventory-NG/OCSInventory-Server/stargazers) 🛰️  
   **Automated agent-based software and hardware discovery engine** (GPL-2.0). Automatically inventories installed software across Windows, Linux, and macOS fleets to feed license compliance data into GLPI and Snipe-IT.
 
-- **[Rudder](https://github.com/Normation/rudder)** [![GitHub stars](https://img.shields.io/github/stars/Normation/rudder?style=social&color=white)](https://github.com/Normation/rudder/stargazers) ⚓  
+- **[Rudder](https://github.com/Normation/rudder)** [![GitHub_Stars](https://img.shields.io/github/stars/Normation/rudder?style=social&color=white)](https://github.com/Normation/rudder/stargazers) ⚓  
   **Open-source continuous configuration management and security compliance tool** (GPL-3.0). Includes node license verification and compliance rule enforcement across infrastructure fleets.
 
-- **[openMAINT](https://github.com/openMAINT/openMAINT)** [![GitHub stars](https://img.shields.io/github/stars/openMAINT/openMAINT?style=social&color=white)](https://github.com/openMAINT/openMAINT/stargazers) 🏗️  
+- **[openMAINT](https://github.com/openMAINT/openMAINT)** [![GitHub_Stars](https://img.shields.io/github/stars/openMAINT/openMAINT?style=social&color=white)](https://github.com/openMAINT/openMAINT/stargazers) 🏗️  
   **Open-source enterprise facility and logistics asset management** (GPL-3.0) for managing physical assets, building infrastructure, and software license documentation across large operational environments.
 
 ---
 
 ### 🔍 Open-Source License Compliance & SCA Scanners
 
-- **[ScanCode Toolkit](https://github.com/aboutcode-org/scancode-toolkit)** [![GitHub stars](https://img.shields.io/github/stars/aboutcode-org/scancode-toolkit?style=social&color=white)](https://github.com/aboutcode-org/scancode-toolkit/stargazers) 🔎  
+- **[ScanCode Toolkit](https://github.com/aboutcode-org/scancode-toolkit)** [![GitHub_Stars](https://img.shields.io/github/stars/aboutcode-org/scancode-toolkit?style=social&color=white)](https://github.com/aboutcode-org/scancode-toolkit/stargazers) 🔎  
   **The industry-standard open-source license and copyright detection engine** (Apache-2.0). Scans source code and package manifests to detect licenses (with full SPDX identifier matching), copyright notices, and dependency obligations.
 
-- **[OSS Review Toolkit (ORT)](https://github.com/oss-review-toolkit/ort)** [![GitHub stars](https://img.shields.io/github/stars/oss-review-toolkit/ort?style=social&color=white)](https://github.com/oss-review-toolkit/ort/stargazers) 🧰  
+- **[OSS Review Toolkit (ORT)](https://github.com/oss-review-toolkit/ort)** [![GitHub_Stars](https://img.shields.io/github/stars/oss-review-toolkit/ort?style=social&color=white)](https://github.com/oss-review-toolkit/ort/stargazers) 🧰  
   **The premier Linux Foundation open-source license compliance suite** (Apache-2.0). Resolves project dependencies across 20+ package managers, executes static license scans, enforces policy-as-code rules, and generates SPDX/CycloneDX Software Bill of Materials (SBOM).
 
-- **[FOSSology](https://github.com/fossology/fossology)** [![GitHub stars](https://img.shields.io/github/stars/fossology/fossology?style=social&color=white)](https://github.com/fossology/fossology/stargazers) ⚖️  
+- **[FOSSology](https://github.com/fossology/fossology)** [![GitHub_Stars](https://img.shields.io/github/stars/fossology/fossology?style=social&color=white)](https://github.com/fossology/fossology/stargazers) ⚖️  
   **The reference open-source license compliance toolkit** (GPL-2.0). Features a multi-user Web UI and database backend for license, copyright, and export control compliance clearing workflows with SPDX output.
 
-- **[Licensee](https://github.com/licensee/licensee)** [![GitHub stars](https://img.shields.io/github/stars/licensee/licensee?style=social&color=white)](https://github.com/licensee/licensee/stargazers) 📄  
+- **[Licensee](https://github.com/licensee/licensee)** [![GitHub_Stars](https://img.shields.io/github/stars/licensee/licensee?style=social&color=white)](https://github.com/licensee/licensee/stargazers) 📄  
   **Lightweight open-source license detector** (MIT) written in Ruby. Used by GitHub to detect open-source repository licenses by comparing `LICENSE` files against the choosealicense.com database.
 
-- **[Licensed](https://github.com/github/licensed)** [![GitHub stars](https://img.shields.io/github/stars/github/licensed?style=social&color=white)](https://github.com/github/licensed/stargazers) 🔒  
+- **[Licensed](https://github.com/github/licensed)** [![GitHub_Stars](https://img.shields.io/github/stars/github/licensed?style=social&color=white)](https://github.com/github/licensed/stargazers) 🔒  
   **GitHub's open-source tool to cache and verify third-party dependency licenses** (MIT). Automates dependency license checking across multiple language ecosystems within CI/CD pipelines.
 
-- **[Eclipse SW360](https://github.com/eclipse-sw360/sw360)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-sw360/sw360?style=social&color=white)](https://github.com/eclipse-sw360/sw360/stargazers) 🌐  
+- **[Eclipse SW360](https://github.com/eclipse-sw360/sw360)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-sw360/sw360?style=social&color=white)](https://github.com/eclipse-sw360/sw360/stargazers) 🌐  
   **Centralized software component catalog and open-source license management hub** (EPL-2.0). Tracks software components, SBOM obligations, vulnerabilities, and integrates with FOSSology for compliance clearing.
 
-- **[License Checker (NPM)](https://github.com/davglass/license-checker)** [![GitHub stars](https://img.shields.io/github/stars/davglass/license-checker?style=social&color=white)](https://github.com/davglass/license-checker/stargazers) ⚡  
+- **[License Checker (NPM)](https://github.com/davglass/license-checker)** [![GitHub_Stars](https://img.shields.io/github/stars/davglass/license-checker?style=social&color=white)](https://github.com/davglass/license-checker/stargazers) ⚡  
   **CLI tool for scanning npm dependency licenses** (BSD-3-Clause). Extracts license details across Node.js package trees and outputs summaries for legal review.
 
-- **[Tern](https://github.com/tern-tools/tern)** [![GitHub stars](https://img.shields.io/github/stars/tern-tools/tern?style=social&color=white)](https://github.com/tern-tools/tern/stargazers) 🐳  
+- **[Tern](https://github.com/tern-tools/tern)** [![GitHub_Stars](https://img.shields.io/github/stars/tern-tools/tern?style=social&color=white)](https://github.com/tern-tools/tern/stargazers) 🐳  
   **Open-source software package inspection tool for container images** (BSD-2-Clause). Finds software licenses and installed packages inside Docker container layers to produce SBOM reports.
 
 ---
